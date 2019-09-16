@@ -30,11 +30,11 @@
 		<true/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>You can make Photo Frame from your pictures when allow</string>
+	<string>You can take photos to edit it with photo frames</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>You can save pictures to camera roll when allow</string>
+	<string>You can use the photos in library</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>You can make Photo Frame from your pictures when allow</string>
+	<string>You can use the photos in libary</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

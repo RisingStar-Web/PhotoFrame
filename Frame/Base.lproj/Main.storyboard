@@ -289,9 +289,9 @@
     <resources>
         <image name="arrow.png" width="100" height="100"/>
         <image name="back" width="25" height="25"/>
-        <image name="bg.jpg" width="1014" height="1690"/>
+        <image name="bg.jpg" width="156" height="84"/>
         <image name="but_list" width="25" height="25"/>
-        <image name="camera" width="75" height="75"/>
+        <image name="camera" width="350" height="175"/>
         <image name="filter" width="22.5" height="22.5"/>
         <image name="gallery" width="70" height="70"/>
         <image name="gallery-mini" width="25" height="25"/>

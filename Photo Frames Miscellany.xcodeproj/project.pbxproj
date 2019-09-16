@@ -299,8 +299,8 @@
 				TargetAttributes = {
 					5A913BD91CF2D263007A9D40 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = U574224WXL;
-						ProvisioningStyle = Automatic;
+						DevelopmentTeam = HMYNX4LW9N;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -519,9 +519,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = U574224WXL;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = HMYNX4LW9N;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Frame",
@@ -529,10 +529,10 @@
 				INFOPLIST_FILE = Frame/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = photo.frames.miscellany;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kateapp.photoframe;
 				PRODUCT_NAME = "Photo Frames Miscellany";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = PhotoFrame;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -541,9 +541,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = U574224WXL;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = HMYNX4LW9N;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Frame",
@@ -551,10 +551,10 @@
 				INFOPLIST_FILE = Frame/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = photo.frames.miscellany;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kateapp.photoframe;
 				PRODUCT_NAME = "Photo Frames Miscellany";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE_SPECIFIER = PhotoFrame;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
